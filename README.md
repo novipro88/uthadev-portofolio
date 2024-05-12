@@ -20,21 +20,23 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 #### Home
 
-![Nextjs Creative Portfolio Website](https://res.cloudinary.com/dymu4drhj/image/upload/e_gen_restore/c_limit,w_1366/f_auto/q_auto/wkzgnsfheehoebui2bcn?_a=BAVAfVBy0)
+![Nextjs Creative Portfolio Website](https://res.cloudinary.com/dymu4drhj/image/upload/v1715464167/project/file_1715464145212.png)
 
 #### About
 
-![Nextjs Creative Portfolio Website About Page 1](https://res.cloudinary.com/dymu4drhj/image/upload/e_gen_restore/c_limit,w_1366/f_auto/q_auto/lfldnbssr5hjrgcieaz8?_a=BAVAfVBy0)
+![Nextjs Creative Portfolio Website About Page 1](https://res.cloudinary.com/dymu4drhj/image/upload/v1715464210/project/file_1715464206022.png)
 
-![Nextjs Creative Portfolio Website About Page 2](https://res.cloudinary.com/dymu4drhj/image/upload/e_gen_restore/c_limit,w_1366/f_auto/q_auto/keotgoa7jbrtddyrmpyj?_a=BAVAfVBy0)
+![Nextjs Creative Portfolio Website About Page 2](https://res.cloudinary.com/dymu4drhj/image/upload/v1715464225/project/file_1715464220940.png)
+
+![Nextjs Creative Portfolio Website About Page 3](https://res.cloudinary.com/dymu4drhj/image/upload/v1715464239/project/file_1715464235441.png)
 
 #### Projects
 
-![Next.js Creative Portfolio Website Projects Page](https://res.cloudinary.com/dymu4drhj/image/upload/e_gen_restore/c_limit,w_1366/f_auto/q_auto/qj0zbuy0lnp8q10jslb8?_a=BAVAfVBy0)
+![Next.js Creative Portfolio Website Projects Page](https://res.cloudinary.com/dymu4drhj/image/upload/v1715483943/project/file_1715483942916.png)
 
 #### Contact
 
-![Next.js Creative Portfolio Website Contact Page](https://res.cloudinary.com/dymu4drhj/image/upload/e_gen_restore/c_limit,w_1366/f_auto/q_auto/xetovjew9wcu7uejrgbv?_a=BAVAfVBy0)
+![Next.js Creative Portfolio Website Contact Page](https://res.cloudinary.com/dymu4drhj/image/upload/v1715464251/project/file_1715464247731.png)
 
 ## Resources Used in This Project
 
