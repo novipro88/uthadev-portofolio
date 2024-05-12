@@ -20,20 +20,16 @@ const Staff = React.memo(function Staff(props) {
     <group
       {...props}
       dispose={null}
-      scale={[0.5, 0.8, 0.5]}
-      position={[0.6, -1.6, 0]}
+      scale={[0.15, 0.25, 0.15]}
+      position={[0.8, -1.9, 0.5]}
       ref={modelRef}
     >
-      <group name="Sketchfab_Scene">
-        <primitive object={nodes._rootJoint} />
-        <skinnedMesh
-          name="Object_45"
-          geometry={nodes.Object_45.geometry}
-          material={materials.ZombieSword}
-          skeleton={nodes.Object_45.skeleton}
-          rotation={[-Math.PI / 2, 0, 0]}
-        />
-      </group>
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.lamp_lambert1_0.geometry}
+        material={materials.lambert1}
+      />
     </group>
   );
 });

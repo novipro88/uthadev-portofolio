@@ -42,7 +42,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 - ["Wizard - Chainz Of Lux Bundle_Free Fire"](https://skfb.ly/oyXEI) by [BrOkiE FF is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - ["Hat - Sci fi computer game ready"](https://skfb.ly/owyGI) by [assetfactory is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-- ["Staff - Swordtember 2023 Zombie Sword"](https://skfb.ly/oLpNs) by [Batuhan13 is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+- ["Staff - Table Lamp"](https://skfb.ly/68Y7B) by [Daniyal Malik is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
 #### AI Images
 

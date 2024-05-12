@@ -131,6 +131,13 @@ export const projectsData = [
     date: "2024-04-10",
     demoLink: "https://imagepro-mkaiey.vercel.app",
   },
+  {
+    id: 18,
+    name: "Project Pro.",
+    description: "Your Destination for Developer Templates",
+    date: "2024-05-11",
+    demoLink: "https://project-pro88.vercel.app",
+  },
 ];
 
 export const BtnList = [
